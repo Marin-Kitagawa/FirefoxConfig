@@ -1,0 +1,15 @@
+/* Example userChrome.css file */
+
+/* Import your desired components first */
+
+@import url(chrome/vertical_fox_Marin.css);
+@import url(chrome/tab_close_button_always_on_hover.css);
+@import url(chrome/minimal_popup_scrollbars.css);
+@import url(chrome/button_effect_icon_glow.css);
+@import url(chrome/urlbar_centered_text.css);
+@import url(chrome/window_control_placeholder_support.css);
+@import url(chrome/hide_tabs_toolbar.css);
+@import url(chrome/round_ui_items.css);
+@import url(chrome/tabs_animated_gradient_border.css);
+@import url(chrome/autohide_tabs_toolbar.css);
+@import url(chrome/curved_tabs.css);
