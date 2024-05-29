@@ -201,8 +201,9 @@ toolbar:not([customizing]) > #nav-bar-customization-target {
 
 #sidebar-box {
 	/*--uc-sidebar-width: 32.5px; */
-	--uc-sidebar-width: 0.009px; 
-	--uc-sidebar-hover-width: 260px;
+	--uc-sidebar-width: 009px; 
+	/*--uc-sidebar-hover-width: 260px;*/
+	--uc-sidebar-hover-width: 30vw;
 	--uc-autohide-sidebar-delay: 1ms; /* Waiting time before hiding sidebar */
 	position: relative;
 	min-width: var(--uc-sidebar-width) !important;

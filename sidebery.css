@@ -68,14 +68,9 @@
 	background-color: var(--tabs-bg-hover) !important;
 }
 
-.BottomBar {
-	width: 55% !important;
-}
-
 .new-tab-btn {
 	align-item: center !important;
 	justify-content: center !important;
-	margin-left: -171px !important;
 }
 
 .NavigationBar .panel-btn[data-active="true"] {
